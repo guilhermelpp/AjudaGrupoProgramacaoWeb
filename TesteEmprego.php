@@ -1,4 +1,9 @@
 <?php
+/*
+ *Elabore um programa para listar todos os números multiplos de três de um intervalo 
+ *fechado a esquerda e aberto a direita difinido pelo utilizador este entervalo deve ser validado
+ *
+*/
 
 class TesteEmprego
 {
@@ -50,7 +55,7 @@ class TesteEmprego
         }
     }
 }
-/**Aqui crio a instancia da fução que criei acima com os dois numeros
+/**Aqui crio a instancia da classe que criei acima com os dois numeros
  * e mando imprimir
  */
 $teste = new TesteEmprego(2, 21);
